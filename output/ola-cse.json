@@ -1,0 +1,328 @@
+[
+    {
+        "title": "Ola Fleet Technologies Pvt Ltd",
+        "link": "https://www.google.com/maps/place/Ola+Fleet+Technologies+Pvt+Ltd/data=!4m7!3m6!1s0x3bae176b251df781:0xdb21409ad309b940!8m2!3d13.0375156!4d77.6273117!16s%2Fg%2F11c48nmmqp!19sChIJgfcdJWsXrjsRQLkJ05pAIds?authuser=0&hl=en&rclk=1",
+        "main_category": "Corporate office",
+        "rating": 3.1,
+        "reviews": 348,
+        "website": "http://www.olacabs.com/",
+        "phone": "080 4665 5300",
+        "address": "Ola Fleet Technologies Pvt Ltd, No. 1870, Dodda Banaswadi Main Rd, Brindavan Nagar, 1st Stage, Hennur Gardens, Bengaluru, Karnataka 560043",
+        "place_id": "ChIJgfcdJWsXrjsRQLkJ05pAIds",
+        "status": "Closed \u22c5 Opens 9:30\u202fam",
+        "price_range": null,
+        "description": null,
+        "reviews_per_rating": {
+            "1": 109,
+            "2": 25,
+            "3": 51,
+            "4": 48,
+            "5": 115
+        },
+        "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJgfcdJWsXrjsRQLkJ05pAIds&q=Ola+Fleet+Technologies+Pvt+Ltd&authuser=0&hl=en&gl=IN",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPeJ2R3B6kfcdWklpdWhChWFu-BRABBSUK6jFAu=w408-h306-k-no",
+        "images": [
+            {
+                "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPeJ2R3B6kfcdWklpdWhChWFu-BRABBSUK6jFAu=w397-h298-k-no",
+                "title": "All"
+            },
+            {
+                "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPgRrMaYyfvyGQ0b2zxpSCE032TGFOR3lChbTbs=w224-h298-k-no",
+                "title": "Building"
+            },
+            {
+                "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOqrEcXPtB-V1BbuSIMJMyo8mu1_qRY1daT-pxA=w224-h398-k-no",
+                "title": "Videos"
+            },
+            {
+                "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KSvGvQd7UxGDvH0jBEpXog&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=277.2035&pitch=0&thumbfov=100",
+                "title": "Street View & 360\u00b0"
+            }
+        ],
+        "hours": [
+            {
+                "day": "Friday",
+                "times": [
+                    "9:30\u202fam\u20135:30\u202fpm"
+                ]
+            },
+            {
+                "day": "Saturday",
+                "times": [
+                    "9\u202fam\u20135:30\u202fpm"
+                ]
+            },
+            {
+                "day": "Sunday",
+                "times": [
+                    "Closed"
+                ]
+            },
+            {
+                "day": "Monday",
+                "times": [
+                    "9\u202fam\u20135:30\u202fpm"
+                ]
+            },
+            {
+                "day": "Tuesday",
+                "times": [
+                    "9\u202fam\u20135:30\u202fpm"
+                ]
+            },
+            {
+                "day": "Wednesday",
+                "times": [
+                    "9\u202fam\u20135:30\u202fpm"
+                ]
+            },
+            {
+                "day": "Thursday",
+                "times": [
+                    "9\u202fam\u20135:30\u202fpm"
+                ]
+            }
+        ],
+        "menu": {
+            "link": null,
+            "source": null
+        },
+        "order_online_links": [],
+        "reservations": [],
+        "owner": {
+            "name": "Ola Fleet Technologies Pvt Ltd (Owner)"
+        },
+        "categories": [
+            "Corporate office"
+        ],
+        "coordinates": {
+            "latitude": 13.037515599999999,
+            "longitude": 77.62731169999999
+        },
+        "plus_code": "2JQG+2W Bengaluru, Karnataka",
+        "complete_address": {
+            "borough": "Brindavan Nagar, 1st Stage, Hennur Gardens",
+            "city": "Bengaluru",
+            "country_code": "IN",
+            "postal_code": "560043",
+            "state": "Karnataka",
+            "street": "No. 1870, Dodda Banaswadi Main Rd"
+        },
+        "time_zone": "Asia/Calcutta",
+        "about": [
+            {
+                "id": "accessibility",
+                "name": "Accessibility",
+                "options": [
+                    {
+                        "enabled": false,
+                        "name": "Wheelchair-accessible entrance"
+                    }
+                ]
+            }
+        ],
+        "user_reviews": [
+            {
+                "description": "Worst service in your office.If not able to help line put pls close from India every driver suffering because of ur service u don't have customer care number even",
+                "images": [],
+                "name": "lucky lucky",
+                "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXJpOEwJQd7iwNcYw42PDiNhOn8mbghzEpyes19K-QL7fI=s120-c-rp-mo-br100",
+                "rating": 1,
+                "when": "3 months ago"
+            },
+            {
+                "description": "Great location. Traffic congestion all the time on the approach road.",
+                "images": [],
+                "name": "Harmit Singh",
+                "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocImb0l0zZLJ3p5fFE2FC6YERhl0dn1VX-fUGDvLczW2=s120-c-rp-mo-ba5-br100",
+                "rating": 4,
+                "when": "a month ago"
+            },
+            {
+                "description": "Booked car from ola app on 24/08/2022 from yeshwantpur to kempegowda international airport once reached at location i paid 1073 rs through phonepe to driver personal number it was early morning so the network services was not up to mark automatically it shown processing so i requested to driver that it's showing processing so it will credit to ur account  r else mine so i will resend once i reach my place and i literally requested him a Lott but the hell driver was so rude , unprofessional and just mentally abusived  me and again i paid from my frnd and he asked extra 130 for late payment so even i paid 1200 to him for same number it got credited to him and after two days my remaining amount 1073 got credited to the driver but he refused to send me  from last month I'm  calling the ola customer support team and Asking to refund the amount but seriously they are playing a game with me like today tommrow another week like so this is the just worst service u r giving to customer just fed-up of your drama so please kindly response to this review and refund my money back",
+                "images": [],
+                "name": "Shanvi Sanu",
+                "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUZ79NQNHU4V8KZJRfvL1d-HHGM5ZNG8BmFEYWVL060OJg=s120-c-rp-mo-br100",
+                "rating": 1,
+                "when": "a year ago"
+            },
+            {
+                "description": "NEW\nOla is cheating me where I paid fair through phone pay to driver but they are asking again to pay fine and dues instead of postpaid. And also they are torturing me tat Cibil will defects if not pay dues , I already paid through phone pay,.. This is too much",
+                "images": [],
+                "name": "Guru \u201c.\u201d",
+                "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVFlC493vg9tKl2ZO9OA2nda_Q8hG5lb5B-vjHJm5m9mw=s120-c-rp-mo-br100",
+                "rating": 1,
+                "when": "a year ago"
+            },
+            {
+                "description": "Very worst service. Without any intimation they will block the account for all silly reasons.\n\nNo proper support provided and cost is also high when compared to other rides.\n\nNon sense app.",
+                "images": [],
+                "name": "hema k",
+                "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXV5-qD_uQRIDSaBavaGjxXDMiLeZYe_5QfcZs15JJ_8Q=s120-c-rp-mo-br100",
+                "rating": 1,
+                "when": "11 months ago"
+            },
+            {
+                "description": "Unexperienced people ruining customers time and worst people to deal with.\nBhavish Aggarwal will be the next Aggarwal to flee away with peoples money!! **15 days since vehicle got registered and every day I get call for delivery and never get it** Best part nobody to contact or complain about. When we call back on the number from which we got call, they say we don\u2019t know.",
+                "images": [],
+                "name": "Dinesh Rajpurohit",
+                "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJT_tyu4JdZ20MgjBqrzaxdpVJ04MQF33TFNQrcfV0L=s120-c-rp-mo-br100",
+                "rating": 1,
+                "when": "a year ago"
+            },
+            {
+                "description": "TODAY morning I booked ola from Sanjay nagar to rmv2 nd stge to snn Clermont\nAuto driver has come my location and he took OTP then and suddenly he cancelled aand i called him several times but he didn't pick.... He made a mistake but I paid the fine rs25...  Really worst",
+                "images": [],
+                "name": "Nandini Chandrakumar",
+                "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXKYxHBs8AIaiXv9CDTgizDhnKN5ypkQ7RcQyQW9zhXUxk-=s120-c-rp-mo-br100",
+                "rating": 1,
+                "when": "a year ago"
+            },
+            {
+                "description": "My first and last terrible experience with Ola.\n\nThe app doesn't detect my right location, or the drive didn't bother coming at pick up. I walked over to the other side, give him the otp. Right upto that point the destination address was displayed properly. After typing in the OTP the drop point displayed was my pick up point.\nThere's the glitch, the driver requested I check. I did. My details show correctly as I booked them. It didn't show the same on his device, and he tells me I've entered the wrong details, that he'll drop me to my pick up point from where I walked to catch my ride in the first place.\nHe tells me it's my mistake and that I'm not the only one who knows to use technology.\nHe spoke much too much than was necessary.\nHe called his supervisor and spoke of my rash talk, NOBODY wants to hear a whole doze of yelling first thing the morning!\n\nWhen the supervisor requested to speak with me, when I explained the situation, she had the decency to apologise for the problem.\nBut it wasn't over!\nThis man! After a whole lot of drama he drove the auto while talking on the phone constantly complaining about me to his (pretend) supervisor. And when I did ask him to stop talking, he refused. Asked him to give me the phone so I can speak as well, he refused.\nHe went out of line and said \" I should listen to him complain during the ride \". He continued talking on the phone while driving which is violation101.\nYou guys are no competition to Uber. I am certainly NOT the first of customers complaining about ola drivers or their terrible services!",
+                "images": [],
+                "name": "Shreya Ciryam",
+                "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLUM1ozMYNO6wvKYmnDAgA8BNCvpSkwg5AQD1a2Ax3e=s120-c-rp-mo-ba5-br100",
+                "rating": 1,
+                "when": "5 years ago"
+            }
+        ],
+        "cid": "15789972802247440704",
+        "data_id": "0x3bae176b251df781:0xdb21409ad309b940"
+    },
+    {
+        "title": "ANI Technologies Private Limited",
+        "link": "https://www.google.com/maps/place/ANI+Technologies+Private+Limited/data=!4m7!3m6!1s0x3bae144df7fac5c5:0x49d553e645e4798e!8m2!3d12.9342014!4d77.6127581!16s%2Fg%2F11c1n73sjj!19sChIJxcX6900UrjsRjnnkReZT1Uk?authuser=0&hl=en&rclk=1",
+        "main_category": "Corporate office",
+        "rating": 2.2,
+        "reviews": 31,
+        "website": "https://www.olacabs.com/",
+        "phone": "080 4665 5300",
+        "address": "ANI Technologies Private Limited, Maruthi Infotech Center 100 Feet Road A Block - 5th floor, Challaghatta, Bengaluru, Karnataka 560071",
+        "place_id": "ChIJxcX6900UrjsRjnnkReZT1Uk",
+        "status": null,
+        "price_range": null,
+        "description": null,
+        "reviews_per_rating": {
+            "1": 19,
+            "2": 1,
+            "3": 1,
+            "4": 5,
+            "5": 5
+        },
+        "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJxcX6900UrjsRjnnkReZT1Uk&q=ANI+Technologies+Private+Limited&authuser=0&hl=en&gl=IN",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOyLRulegnY9yUAdciC9xCYQxf2LqdQnnAPKLtb=w408-h725-k-no",
+        "images": [
+            {
+                "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOyLRulegnY9yUAdciC9xCYQxf2LqdQnnAPKLtb=w224-h398-k-no",
+                "title": "All"
+            },
+            {
+                "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOPmA8sWJg7MB05644oZeyFqebTxj2BK024BV_Y=w529-h298-k-no",
+                "title": "Building"
+            },
+            {
+                "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YkXNDzg4pgtkJtV6KVzzbQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=68.31346&pitch=0&thumbfov=100",
+                "title": "Street View & 360\u00b0"
+            }
+        ],
+        "hours": [],
+        "menu": {
+            "link": null,
+            "source": null
+        },
+        "order_online_links": [],
+        "reservations": [],
+        "owner": {
+            "id": "104154337798190413504",
+            "link": "https://www.google.com/maps/contrib/104154337798190413504",
+            "name": "ANI Technologies Private Limited (Owner)"
+        },
+        "categories": [
+            "Corporate office"
+        ],
+        "coordinates": {
+            "latitude": 12.9342014,
+            "longitude": 77.6127581
+        },
+        "plus_code": "WJM7+M4 Bengaluru, Karnataka",
+        "complete_address": {
+            "borough": "5th Block, Challaghatta",
+            "city": "Bengaluru",
+            "country_code": "IN",
+            "postal_code": "560071",
+            "state": "Karnataka",
+            "street": "Maruthi Infotech Center 100 Feet Road A Block - 5th floor"
+        },
+        "time_zone": "Asia/Calcutta",
+        "about": [],
+        "user_reviews": [
+            {
+                "description": "Worst organization. No customer care. Ola drivers can do anything to the customer and there is no customer care to help or call to.\nHopeless seems that they are going to close this cabs business soon.",
+                "images": [],
+                "name": "Mithilesh Pandey",
+                "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKZJnVv2qtoOVuE8bs1Ok0ax6PirmcYgLZu0_kBzYOC=s120-c-rp-mo-br100",
+                "rating": 1,
+                "when": "9 months ago"
+            },
+            {
+                "description": "Frauds and Scammers! Worst company ever! Making india poor lazy and worst in every way possible.",
+                "images": [],
+                "name": "Mystique Corporation",
+                "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJRj0N74YxYMd2UsGU21dZW0FlhrV0q39Z2a0E-HtyS=s120-c-rp-mo-br100",
+                "rating": 1,
+                "when": "5 months ago"
+            },
+            {
+                "description": "Ola is ful if Fraud and Scammers.",
+                "images": [],
+                "name": "Avinash D",
+                "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJjrUXg_SAs2rMz-0HMFQBMRg5P2yLt3Drpzy_B-pDh=s120-c-rp-mo-br100",
+                "rating": 1,
+                "when": "5 months ago"
+            },
+            {
+                "description": "Ola is Full of Fraudsters and Scammers and abusive people.",
+                "images": [],
+                "name": "SuRyA SINGH",
+                "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXX-tQpjY7i_BUylGK051jSyN-1b_mvJQi2Q76OqV5LusQ=s120-c-rp-mo-br100",
+                "rating": 1,
+                "when": "5 months ago"
+            },
+            {
+                "description": "Worst agency\nNo proper response or support from team\nPlz Don't use ola cabs",
+                "images": [],
+                "name": "meghana 715",
+                "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWI0Ty2n-0PYlNbO41rTdYGvm6ggnRbiQqyKP8rRLwmJnc=s120-c-rp-mo-ba2-br100",
+                "rating": 1,
+                "when": "10 months ago"
+            },
+            {
+                "description": "I had an issue during my share trip today where while booking the Ola app showed me that I will be sharing the trip with 2 other passengers & mine would be the 2nd drop. But when the 1st passenger drop was completed, the driver told me that mine would be the 3rd drop as his App interface showed the same even though my drop location was just 2km away from the Passenger-1 drop location & the Passenger-3 location was 6kms away. The driver gave me a helpless look as there is nothing that he could do. I de-boarded the cab as 6km to & fro in Bangalore would have delayed me by atleast 30-45mins. After de-boarding I contacted the customer care for 2 reasons - 1. To end my ongoing trip as the driver was unable to do that 2. Request a partial refund as I wasn't dropped at my desired destination.\nI was first attended by Wilfred. The arrogant way he spoke made me feel that I have taken some favor from him for free. Realizing that I was not going to get any solution from Wilfred, I asked my call to be escalated. I was next connected to Deepa. Surprisingly, from the start of the conversation, she wasn't even ready to listen to my issue and kept on repeating \"We understand your inconvenience, but there is nothing we can do\". Moreover, the condescending way she spoke made me realize that OLA is far from being a customer centric company & with un-trained and un-empathic customer service reps like Wilfred & Deepa, the company would only go downwards.",
+                "images": [],
+                "name": "Anand Krishnan",
+                "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKKAZkgc4RXL5-XQcojYaFyHRV-NCdxHQxcR9zUJrgv1w=s120-c-rp-mo-ba2-br100",
+                "rating": 1,
+                "when": "6 years ago"
+            },
+            {
+                "description": "Third class company stealing money from innocent and old age people, drivers are #1 in cheating with route for money.",
+                "images": [],
+                "name": "G K",
+                "profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVdhH0ui6myJTTiUmFFzROgeO2_hxyybvRgptv91c_vung=s120-c-rp-mo-ba3-br100",
+                "rating": 1,
+                "when": "11 months ago"
+            },
+            {
+                "description": "Ola is full of fraudsters and scammers.",
+                "images": [],
+                "name": "Surya Singh",
+                "profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIDZNZTQfzcpi3m-jhQCf1kDzAOlTf8H4uy94r4vt_K=s120-c-rp-mo-br100",
+                "rating": 1,
+                "when": "5 months ago"
+            }
+        ],
+        "cid": "5320250783288293774",
+        "data_id": "0x3bae144df7fac5c5:0x49d553e645e4798e"
+    }
+]
